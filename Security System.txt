@@ -1,0 +1,2 @@
+Security System implemented using three infrared sensors and three infrared diodes. The system had to be armed or disarmed by pressing four buttons. 
+The order was not important, but it can be easily changed into accepting a combination.
